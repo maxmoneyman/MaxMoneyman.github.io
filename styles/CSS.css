@@ -1,0 +1,39 @@
+.tile {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    opacity: 95%;
+    /*    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px, 2px, 2px, 2px;
+    padding: 7px, 7px, 7px, 7px;*/
+}
+.subtile{
+    opacity: 85%;
+}
+.round-xlarge {
+    border-radius: 16px;
+}
+.pic {
+    /*border-radius: 10%;*/
+    border-radius: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 10px;
+    border-bottom: 10px;
+    max-height: 500px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    opacity: 100%;
+}
+.bg {
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.paragraph{
+    font-size: x-large;
+    text-align: center;
+    background-color: navajowhite;
+}
