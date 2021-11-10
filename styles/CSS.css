@@ -28,12 +28,17 @@
     opacity: 100%;
 }
 .bg {
-    background-size: auto;
-    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: space;
     background-attachment: fixed;
 }
 .paragraph{
     font-size: x-large;
     text-align: center;
     background-color: navajowhite;
+}
+
+@media{
+    
+
 }
