@@ -28,7 +28,7 @@
     opacity: 100%;
 }
 .bg {
-    background-size: inherit;
+    background-size: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
