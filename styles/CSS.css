@@ -2,13 +2,12 @@
     padding-top: 10px;
     padding-bottom: 20px;
     opacity: 95%;
-    /*    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 2px, 2px, 2px, 2px;
-    padding: 7px, 7px, 7px, 7px;*/
+    margin: 100px, 100px, 100px, 100px;
+
 }
-.subtile{
+.subtile {
     opacity: 85%;
+
 }
 .round-xlarge {
     border-radius: 16px;
@@ -31,6 +30,11 @@
     background-size: contain;
     background-repeat: space;
     background-attachment: fixed;
+}
+.bgs {
+    border: 100px, 100px, 100px, 100px;
+    margin: 100px, 100px, 100px, 100px;
+    padding: 100px, 100px, 100px, 100px;
 }
 .paragraph{
     font-size: x-large;
