@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\images",
+    "\\scripts",
     "\\styles"
   ],
-  "SelectedNode": "\\images\\feedback.png",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
